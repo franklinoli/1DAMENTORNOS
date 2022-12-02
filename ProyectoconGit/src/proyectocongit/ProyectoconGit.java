@@ -17,6 +17,7 @@ public class ProyectoconGit {
         // TODO code application logic here
         
         System.out.println("Hola desde net");
+        System.out.println("Esto es un ejemplo desde IntelliJ");
     }
     
 }
